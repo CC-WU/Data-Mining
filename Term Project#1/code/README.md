@@ -1,3 +1,4 @@
+!! C4.5 can only run on Linux !!
 
 Running C4.5 can refer to [C4.5 Tutorial](http://www2.cs.uregina.ca/~dbd/cs831/notes/ml/dtrees/c4.5/tutorial.html)
 
