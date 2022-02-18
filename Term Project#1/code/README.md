@@ -33,6 +33,6 @@ Rules file has confusion matrix. For example, in the table below:
 
 !! DataPreprocess can run on Linux & Windows !!
 
-You can just run ./DataPreprocess/dataframe_proprocess.py to complete all data preprocessing.
+You can just run ./DataPreprocess/dataframe_proprocess.py to complete all data preprocessing. Some of them can be replaced, such as missing value complement, you can use mode, median, mean, etc.
 
 ./DataPreprocess Other files provide functions for plotting and analyzing data.
